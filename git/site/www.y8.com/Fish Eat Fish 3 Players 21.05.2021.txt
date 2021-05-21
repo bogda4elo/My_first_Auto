@@ -1,0 +1,1 @@
+Fish Eat Fish is a game where you must eat other fish to survive. It can be played in single player, 2 player, and 3 player modes. Use the keyboard and mouse to battle it out to see who is the top fish. Remember to eat fish smaller than yourself.

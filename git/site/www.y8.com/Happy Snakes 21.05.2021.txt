@@ -1,0 +1,1 @@
+Happy Snakes is an addictive io game where you play as a little snake competing for orbs. Get another snake to run into you and collect their orbs to grow longer. Use the speed boost to avoid collisions but watch out, it will shrink your snake.

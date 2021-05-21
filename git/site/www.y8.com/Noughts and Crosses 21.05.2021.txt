@@ -1,0 +1,1 @@
+A simple game of 'tic tac toe' on a chalkboard theme. You can play alone or with a friend in two player modes. This is a classic game that is easily playable with paper. Now you can play using a computer.
